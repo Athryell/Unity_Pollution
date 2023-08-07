@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e38ed048e3d6847a9a90cf461a086c5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plBoundaries: {fileID: 8248046488524881693, guid: 60297cd72c8c24e13935b9576f4cc0f4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
